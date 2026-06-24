@@ -1,0 +1,2 @@
+subset,mode,R2,NSE,MAE,RMSE,lag_diff_pfi_pct,lag_diff_pct,lag_diff_tide_pct,bda_max_difference
+subset1,all,0.9830231027108064,0.9830231027108064,0.02787965711419383,0.033460654886182176,100.0,100.0,100.0,0.2238206228447268
